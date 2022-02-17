@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\DesafioDiamante2.ConsoleApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\DesafioDiamante2.ConsoleApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\DesafioDiamante2.ConsoleApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\DesafioDiamante2.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\DesafioDiamante2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\ref\DesafioDiamante2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\bin\Debug\net5.0\DesafioDiamante2.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\ref\DesafioDiamante2.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\DesafioDiamante2.ConsoleApp\DesafioDiamante2.ConsoleApp\obj\Debug\net5.0\DesafioDiamante2.ConsoleApp.genruntimeconfig.cache
